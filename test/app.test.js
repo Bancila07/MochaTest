@@ -20,4 +20,14 @@ describe('Testing the Cube Functions', function() {
         done();
     });
 
+    it('3. The volume of the Cube', function(done) {
+        let c3 = new Cube(8);
+        expect(c3.getVolume()).to.equal(512);
+        done();
+    });
+    it('3. The volume of the Cube', function(done) {
+        let c3 = new Cube(10);
+        expect(c3.getVolume()).to.equal(1000);
+        done();
+    });
 });
