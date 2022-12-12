@@ -10,7 +10,7 @@ describe('Testing the Cube Functions', function() {
 
     it('2. The surface area of the Cube', function(done) {
         let c2 = new Cube(5);
-        expect(c2.getSurfaceArea()).to.equal(150);
+        expect(c2.getSurfaceArea()).to.equal(151);
         done();
     });
 
