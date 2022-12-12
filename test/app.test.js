@@ -22,7 +22,7 @@ describe('Testing the Cube Functions', function() {
 
     it('3. The volume of the Cube', function(done) {
         let c3 = new Cube(8);
-        expect(c3.getVolume()).to.equal(512);
+        expect(c3.getVolume()).to.equal(511);
         done();
     });
     it('3. The volume of the Cube', function(done) {
