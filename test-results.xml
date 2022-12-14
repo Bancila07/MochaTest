@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.006" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-12-14T19:12:22" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Testing the Cube Functions" timestamp="2022-12-14T19:12:22" tests="5" file="D:\Programare\Chai\test\app.test.js" time="0.004" failures="0">
+    <testcase name="Testing the Cube Functions 1. The side length of the Cube" time="0.002" classname="1. The side length of the Cube">
+    </testcase>
+    <testcase name="Testing the Cube Functions 2. The surface area of the Cube" time="0.000" classname="2. The surface area of the Cube">
+    </testcase>
+    <testcase name="Testing the Cube Functions 3. The volume of the Cube" time="0.000" classname="3. The volume of the Cube">
+    </testcase>
+    <testcase name="Testing the Cube Functions 4. The volume of the Cube" time="0.000" classname="4. The volume of the Cube">
+    </testcase>
+    <testcase name="Testing the Cube Functions 5. The volume of the Cube" time="0.000" classname="5. The volume of the Cube">
+    </testcase>
+  </testsuite>
+</testsuites>
